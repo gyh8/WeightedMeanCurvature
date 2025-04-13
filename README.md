@@ -17,7 +17,6 @@ year = "2019",
 issn = "0165-1684",
 doi = "https://doi.org/10.1016/j.sigpro.2019.06.020",
 url = "http://www.sciencedirect.com/science/article/pii/S0165168419302282",
-author = "Yuanhao Gong and Orcun Goksel",
-keywords = "Mean curvature, Convolution, Neural network, Regularization, Weighted mean curvature, Curvature"
+author = "Yuanhao Gong and Orcun Goksel"
 }
 ```
